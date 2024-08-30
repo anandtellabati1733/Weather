@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8249A0D9-4FA4-49CD-A019-1FDDB6C006DA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A90AA3DF-3738-4592-BFC3-0E37010EDA23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherAppTests/SwiftUI/LocationSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "dismiss()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBDEC6C2-3098-4E44-BA90-38F042DEF464"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Storyboarded.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "className"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchWeather(cityName:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC - 29a1844347273e52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.WeatherInfoViewModel.fetchWeather(cityName: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3bhu1chavala/Downloads/WeatherApp-master%207/WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC - c0fc3927151aa3bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApp.WeatherResponseModel&gt;, Swift.Optional&lt;WeatherApp.NetworkError&gt;) -&gt; () in WeatherApp.WeatherInfoViewModel.fetchWeather(cityName: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3bhu1chavala/Downloads/WeatherApp-master%207/WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC - bd02988ab4a904cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAppTests.WeatherInfoViewModel.fetchWeather(cityName: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3bhu1chavala/Downloads/WeatherApp-master%207/WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC - db99f76831c7caf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherAppTests.WeatherResponseModel&gt;, Swift.Optional&lt;WeatherAppTests.NetworkError&gt;) -&gt; () in WeatherAppTests.WeatherInfoViewModel.fetchWeather(cityName: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3bhu1chavala/Downloads/WeatherApp-master%207/WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC - 2b7e33a31be93841"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAppUITests.WeatherInfoViewModel.fetchWeather(cityName: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherAppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3bhu1chavala/Downloads/WeatherApp-master%207/WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "8E369578-B0DB-4CC4-8580-03765802F7FC - bcacfc6b55029a7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherAppUITests.WeatherResponseModel&gt;, Swift.Optional&lt;WeatherAppUITests.NetworkError&gt;) -&gt; () in WeatherAppUITests.WeatherInfoViewModel.fetchWeather(cityName: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherAppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3bhu1chavala/Downloads/WeatherApp-master%207/WeatherApp/ViewModels/WeatherInfoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
